@@ -1,4 +1,4 @@
-# robinyqc-pages
+# robinyqc.cn
 Hello from robinyqc.cn！
 
 New repo! The previous repo has trouble dealing with the conflicts with *ithub pages* and *cloudflare pages*. So here is the repo.  

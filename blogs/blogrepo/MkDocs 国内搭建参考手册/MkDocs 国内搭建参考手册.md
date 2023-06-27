@@ -197,7 +197,7 @@ ctrl+c 即可退出 python server。
 
 参考文章：[用 Material for MkDocs 来生成专业的技术文档](https://zhuanlan.zhihu.com/p/630165427)
 
-首先你可能需要 Git。这也可以从淘宝镜像下载：https://registry.npmmirror.com/binary.html?path=git-for-windows/v2.41.0.windows.1
+首先你可能需要 Git。这也可以从淘宝镜像下载：https://registry.npmmirror.com/binary.html?path=git-for-windows/v2.41.0.windows.1/
 
 具体来说，假设你已经创建了一个Git 仓库，需要做下面的事情：
 

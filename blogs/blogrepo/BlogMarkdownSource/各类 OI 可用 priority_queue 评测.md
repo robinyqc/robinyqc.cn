@@ -12,7 +12,7 @@
    + `rc_binomial_heap` - 冗余计数二项堆
    + `thin_heap` - 除合并以外和斐波那契堆一样的堆
 
-#### [实现代码](../BlogCodeSource/Priority_queue-Test/Priority_queue-Tester.cpp)
+#### [实现代码](./BlogCodeSource/Priority_queue-Test/Priority_queue-Tester.cpp)
 
 放在本机上编译运行就可以了。
 

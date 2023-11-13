@@ -186,6 +186,6 @@ CF 226 E
 
 鉴于所有代码加起来，实在太长了。我就只放上文提到要放代码的了。
 
-[Ping-Ping](../BlogCodeSource/2023_7_practice_DS/Ping_Pong.cpp)
+[Ping-Ping](./BlogCodeSource/2023_7_practice_DS/Ping_Pong.cpp)
 
-[Noble Knight's Path](../BlogCodeSource/2023_7_practice_DS/Noble_Knight's_Path.cpp)
+[Noble Knight's Path](./BlogCodeSource/2023_7_practice_DS/Noble_Knight's_Path.cpp)
